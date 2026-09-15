@@ -1,0 +1,6 @@
+{
+  "name": "EnrichHub",
+  "description": "EnrichHub — Student success, study, career, and mentorship ecosystem featuring wellness check-ins, focus study timer, course notes, EduMatch peer learning, live CodeHub prototypes, and verified talent matching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
