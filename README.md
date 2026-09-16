@@ -1,3 +1,7 @@
+<img width="1867" height="807" alt="image" src="https://github.com/user-attachments/assets/0bf35557-e274-4e3e-9927-b17253846c84" />
+
+
+
 EnrichHub 🚀
 EnrichHub is a professional networking and career-development platform built for the Richfield/AAA community. It connects students, alumni, lecturers, recruiters, and industry partners in one platform to support professional networking, career opportunities, skills development, and graduate employability.
 ✨ Features
