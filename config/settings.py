@@ -68,7 +68,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'richfieldconnect',
         'USER': 'postgres',
-        'PASSWORD': 'Mb3$h3$h3',
+        'PASSWORD': 'passowrd',
         'HOST': 'localhost',
         'PORT': '5432',
     }
