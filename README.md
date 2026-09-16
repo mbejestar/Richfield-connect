@@ -66,5 +66,44 @@ Lecturer — Support students, share professional knowledge, provide recommendat
 Business — Discover talent and publish opportunities.
 Administrator — Manage users, content, opportunities and platform analytics.
 
+
+1. Create the Django Backend
+
+From the project root:
+
+django-admin startproject config .
+
+Create the required Django applications:
+
+python manage.py startapp accounts
+python manage.py startapp opportunities
+python manage.py startapp connections
+python manage.py startapp notifications
+2. Create a Virtual Environment
+python -m venv venv
+
+Activate it on Windows:
+
+venv\Scripts\activate
+3. Install Django Dependencies
+python -m pip install "Django>=5.0" djangorestframework django-cors-headers psycopg2-binary python-dotenv djangorestframework-simplejwt
+
+Verify Django:
+
+python -m django --version
+4. Create requirements.txt
+
+Create a file called:
+
+requirements.txt
+
+Add:
+
+Django>=5.0
+djangorestframework
+django-cors-headers
+psycopg2-binary
+python-dot
+
 EnrichHub — Connecting Talent, Opportunity & Community.
 
